@@ -1,1 +1,3 @@
-# Fundamentals-of-Entrepreneurshi
+# 创业基础
+
+这里是创业基础课程的仓库
